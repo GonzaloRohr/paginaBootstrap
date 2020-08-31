@@ -1,0 +1,89 @@
+/*#28a744*/
+/*#cccccc*/
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+body{
+	width: 100%;
+ background-color: #4c4c4c;
+ box-sizing: border-box;
+}
+
+main{
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.contenerElementos{
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.color {
+	background-color: #4c4c4c;
+}
+
+.header{
+	height: 100vh;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.cabezera{
+	height: 100vh;
+	background-image:url(imagenes/fondo1.svg);
+	background-size: 100% 100%;
+	background-color: #4c4c4c ;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.barraNavegacion{
+	box-shadow: 2px 2px 0 1px rgba(0, 0, 0, 0.2);
+}
+
+.cont-text-principal{
+	height: 100%;
+}
+
+.hosting{
+	color: #2f2e41;
+	text-shadow:2px 2px 2px #9affb1,
+				3px 3px 3px #5bea7b,
+				-2px -2px 2px #9affb1,
+				-3px -3px 3px #5bea7b
+				;
+	overflow: visible;
+}
+
+.excedente{
+	text-shadow:1px 1px 1px #000;
+	overflow: visible;
+}
+
+
+.descrp-Alojamiento{
+	background-image: url(imagenes/fotoDescrpAlojamientop.svg);
+	background-size: 100% 100%;
+}
+
+.alojamientoWeb{
+	height: 50vh;
+	background-image: url(imagenes/server.svg);
+	background-size: 100% 100%;
+}
+
+.contenedor-descripcion{
+	height: 60vh;
+	background-color: #28a744;
+}
+
+
+.contenedor-tabla{
+	background-color: #4c4c4c;
+	box-sizing: border-box;
+	overflow: hidden;
+}
